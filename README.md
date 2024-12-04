@@ -1,6 +1,6 @@
 # Bridzelabz_0521_Gourang_Chauhan
 02/12/2024
-Perform function on Array:
+Perform function on Array:  
 -filter()
 -reduce()
 -map()
