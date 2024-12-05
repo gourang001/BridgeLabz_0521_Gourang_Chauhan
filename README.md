@@ -25,10 +25,10 @@ Work on EmployeeWages repository
 
 05/12/2024
 
-Go through concept
+Go through concept  
 -Node js  
 -NPM  
--Type Conversion  
--use Strict
--Comparison Operator
--Conditional branches (if,else,else-if)  
+-Type Conversion    
+-use Strict   
+-Comparison Operator   
+-Conditional branches (if,else,else-if)    
