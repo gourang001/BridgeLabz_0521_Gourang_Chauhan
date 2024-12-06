@@ -32,3 +32,18 @@ Go through concept
 -use Strict   
 -Comparison Operator   
 -Conditional branches (if,else,else-if)    
+
+
+06/12/2024   
+work on topics   
+-alert()   
+-prompt()   
+-confirm()   
+-logical and nullish operator   
+-rest operator   
+-spread operator   
+-recursion    
+-constructor   
+
+
+
