@@ -48,5 +48,12 @@ work on topics
 -recursion    
 -constructor   
 
+09/12/2024    
+Understanding OOPS concepts      
+-inheritance   
+-polymorphism    
+-abstraction   
+-encaplution   
+
 
 
