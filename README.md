@@ -55,5 +55,12 @@ Understanding OOPS concepts
 -abstraction   
 -encaplution   
 
+10/12/2024   
+Practice event handeler task   
+-onClick   
+-submit   
+-change   
+-focus  
+Done one problem statement that was provided during my review  
 
 
