@@ -119,5 +119,25 @@ Practice these question
 53. Calculate 70! with high precision (all digits)            
 
 13/12/2024   
--done all array methods     
--stack    
+Array methods
+length    
+toString()   
+at()    
+join()    
+pop()   
+push()   
+shift()     
+unshift()   
+concat()    
+copyWithin()    
+flat()    
+splice()   
+toSpliced()    
+slice()     
+indexOf()    
+lastIndexOf()    
+includes()    
+find()     
+findIndex()    
+findLast()    
+findLastIndex()    
