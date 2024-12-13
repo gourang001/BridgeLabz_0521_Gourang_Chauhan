@@ -79,6 +79,17 @@ console.log(newfruits);
 //slice() method slices out a piece of an array into a new array
 console.log(newfruits.slice(1));
 
+// array formation from string
+let x2=Array.from("hello");
+console.log(x2);
 
+// Creates a new array with the given arguments
+let x3=Array.of(1, 2, 3);
+console.log(x3);
 
+// fill() fill the values in array
+new Array(3).fill(0); 
+console.log(Array);
 
+let arr = new Array(3).fill(0);
+console.log(arr);
