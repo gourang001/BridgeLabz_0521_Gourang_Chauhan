@@ -118,4 +118,6 @@ Practice these question
 52. Calculate Fibonacci(500) with high precision (all digits)          
 53. Calculate 70! with high precision (all digits)            
 
-            
+13/12/2024   
+-done all array methods     
+-stack    
