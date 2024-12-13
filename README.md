@@ -119,7 +119,7 @@ Practice these question
 53. Calculate 70! with high precision (all digits)            
 
 13/12/2024   
-Array methods
+-Array methods
 length    
 toString()   
 at()    
@@ -141,3 +141,14 @@ find()
 findIndex()    
 findLast()    
 findLastIndex()    
+sort()       
+reverse()      
+toSorted()     
+toReversed()    
+Numeric Sort    
+Math.min()  
+Math.max()   
+
+-Stack  
+implement Stack using array   
+
