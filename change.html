@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Event Example</title>
+</head>
+<body>
+    <h1>Change Event Example</h1>
+    <label for="country">Choose your country:</label>
+    <select id="country" name="country">
+        <option value="">Select</option>
+        <option value="USA">USA</option>
+        <option value="India">India</option>
+        <option value="UK">UK</option>
+    </select>
+
+    <p id="status"></p>
+
+    <script>
+        const countrySelect = document.getElementById('country');
+        const statusParagraph = document.getElementById('status');
+
+        countrySelect.addEventListener('change', function() {
+            const selectedCountry = countrySelect.value;
+            statusParagraph.textContent = `You selected: ${selectedCountry}`;
+        });
+    </script>
+</body>
+</html>
