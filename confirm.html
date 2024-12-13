@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confirm Example</title>
+</head>
+<body>
+    <h1>JavaScript Confirm Example</h1>
+    <button onclick="confirmAction()">Click Me</button>
+
+    <script>
+        function confirmAction() {
+            let userResponse = confirm("Do you want to proceed?");
+            if(userResponse){
+                alert("Payment confirm");
+            } 
+            else{
+                alert("Payment cancle");
+            }
+        }
+    </script>
+</body>
+</html>
