@@ -152,3 +152,7 @@ Math.max()
 -Stack  
 implement Stack using array   
 
+
+16/12/2024  
+implement Queue using array   
+
