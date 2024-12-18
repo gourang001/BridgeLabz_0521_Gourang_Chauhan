@@ -159,5 +159,13 @@ implement Queue using array
 17/12/2024  
 implement Linked List    
 
+18/12/2024   
+implement tree    
+-inorder traversal     
+-preorder traversal    
+-postorder traversal   
+
+
+
 
 
