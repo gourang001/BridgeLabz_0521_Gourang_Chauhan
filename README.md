@@ -165,7 +165,10 @@ implement tree
 -preorder traversal    
 -postorder traversal   
 
-
+20/12/2024  
+-practice question on LinkedList and Tree    
+-implement BFS and DFS 
+  
 
 
 
