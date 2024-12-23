@@ -169,6 +169,29 @@ implement tree
 -practice question on LinkedList and Tree    
 -implement BFS and DFS 
   
+23/12/2024   
+Objects  
+-creating objects using 'Object' constructor   
+-accessing object properties     
+-adding,updating,deleting object properties      
+-object methods   
+-iterating over object properties  
+-spread operator over objects   
+-object Destructuring  
+-Object.assign()    
+-Object.freeze()     
+-Object.seal()   
+
+Classes  
+-create class    
+-private fields and inheritance in class    
+
+Object References    
+
+Copying   
+-Shallow Copy   
+-Deep Copy   
+
 
 
 
