@@ -2,65 +2,65 @@
 02/12/2024  
 
 Perform function on Array:  
--filter()
--reduce()
--map()
+- filter()
+- reduce()
+- map()
 Practice question for the above topics
 
 03/12/2024  
 
 Concept go-through:
--Map and WeakMap
--Set and WeakSet
--Array Destructuring
+- Map and WeakMap
+- Set and WeakSet
+- Array Destructuring
 
 04/12/2024  
 
 Work on EmployeeWages repository
--Ability to Check Employee is present or Absent(uc1)    
--Ability to Calculate Daily Employee Wage based on part time or full time work(uc2)    
--Refactor the Code to write a function to get work hours(uc3)    
--Calculating Wages for a Month assuming 20 Working Days in a Month(uc4)   
--Calculate Wages till a condition of total working hours of 160 or max days of 20 is reached for a month(uc5)   
+- Ability to Check Employee is present or Absent(uc1)    
+- Ability to Calculate Daily Employee Wage based on part time or full time work(uc2)    
+- Refactor the Code to write a function to get work hours(uc3)    
+- Calculating Wages for a Month assuming 20 Working Days in a Month(uc4)   
+- Calculate Wages till a condition of total working hours of 160 or max days of 20 is reached for a month(uc5)   
 
 05/12/2024
 
 Go through concept  
--Node js  
--NPM  
--Type Conversion    
--use Strict   
--Comparison Operator   
--Conditional branches (if,else,else-if)    
+- Node js  
+- NPM  
+- Type Conversion    
+- use Strict   
+- Comparison Operator   
+- Conditional branches (if,else,else-if)    
 
 
 06/12/2024   
 work on topics   
--alert()   
--prompt()   
--confirm()   
--polyphiles   
--bable    
--transpiler   
--logical and nullish operator   
--rest operator   
--spread operator   
--recursion    
--constructor   
+- alert()   
+- prompt()   
+- confirm()   
+- polyphiles   
+- bable    
+- transpiler   
+- logical and nullish operator   
+- rest operator   
+- spread operator   
+- recursion    
+- constructor   
 
 09/12/2024    
 Understanding OOPS concepts      
--inheritance   
--polymorphism    
--abstraction   
--encaplution   
+- inheritance   
+- polymorphism    
+- abstraction   
+- encaplution   
 
 10/12/2024   
 Practice event handeler task   
--onClick   
--submit   
--change   
--focus  
+- onClick   
+- submit   
+- change   
+- focus  
 Done one problem statement that was provided during my review  
 
 11/12/2024  
@@ -119,7 +119,7 @@ Practice these question
 53. Calculate 70! with high precision (all digits)            
 
 13/12/2024   
--Array methods
+- Array methods
 length    
 toString()   
 at()    
@@ -149,7 +149,7 @@ Numeric Sort
 Math.min()  
 Math.max()   
 
--Stack  
+- Stack  
 implement Stack using array   
 
 
@@ -161,36 +161,36 @@ implement Linked List
 
 18/12/2024   
 implement tree    
--inorder traversal     
--preorder traversal    
--postorder traversal   
+- inorder traversal     
+- preorder traversal    
+- postorder traversal   
 
 20/12/2024  
--practice question on LinkedList and Tree    
--implement BFS and DFS 
+- practice question on LinkedList and Tree    
+- implement BFS and DFS 
   
 23/12/2024   
 Objects  
--creating objects using 'Object' constructor   
--accessing object properties     
--adding,updating,deleting object properties      
--object methods   
--iterating over object properties  
--spread operator over objects   
--object Destructuring  
--Object.assign()    
--Object.freeze()     
--Object.seal()   
+- creating objects using 'Object' constructor   
+- accessing object properties     
+- adding,updating,deleting object properties      
+- object methods   
+- iterating over object properties  
+- spread operator over objects   
+- object Destructuring  
+- Object.assign()    
+- Object.freeze()     
+- Object.seal()   
 
 Classes  
--create class    
--private fields and inheritance in class    
+- create class    
+- private fields and inheritance in class    
 
 Object References    
 
 Copying   
--Shallow Copy   
--Deep Copy   
+- Shallow Copy   
+- Deep Copy   
 
 06/01/2025   
 Implement SOLID Principles    
