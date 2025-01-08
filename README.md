@@ -192,6 +192,25 @@ Copying
 -Shallow Copy   
 -Deep Copy   
 
+06/01/2025   
+Implement SOLID Principles    
+S- Single Responsibility Principle (SRP)   
+O- Open/Closed Principle (OCP)           
+L- Liskov Substitution Principle (LSP)    
+I- Interface Segregation Principle (ISP)    
+D- Dependency Inversion Principle (DIP)    
 
 
+07/01/2025     
+- Objects   
+- Classes   
+- Object references   
+- Object copy(shallow and deep copy)
+- Garbage Collection
+- Objects methods (static and protype)
+- Object to primitive conversion
+- Optional chaining '?.'
+- Property flags and descriptors
+- Hoisting
+- Callback   
 
