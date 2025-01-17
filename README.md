@@ -212,5 +212,21 @@ D- Dependency Inversion Principle (DIP)
 - Optional chaining '?.'
 - Property flags and descriptors
 - Hoisting
-- Callback   
+- Callback
+
+08/01/2025      
+Promise    
+Promise Chaining   
+Promise API   
+Error Handling with Promise   
+
+09/01/2025    
+Practice questions on Promise   
+
+10/01/2025     
+Practice question on Onject,classes,object references,object copy,optional chaining,property flags and descriptors    
+
+
+
+
 
