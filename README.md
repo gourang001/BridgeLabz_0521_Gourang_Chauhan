@@ -226,6 +226,19 @@ Practice questions on Promise
 10/01/2025     
 Practice question on Onject,classes,object references,object copy,optional chaining,property flags and descriptors    
 
+14/01/2025    
+Custom errors    
+Extending Error    
+Promisification    
+
+15/01/2025    
+Review  
+Async/await    
+Currying   
+
+16/01/2025     
+Introduction to TypeScript
+
 
 
 
