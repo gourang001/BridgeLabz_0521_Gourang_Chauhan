@@ -72,8 +72,8 @@ class Employee{
   employee1.listProperties();  
   employee1.listValues();  
   
-//   employee2.listProperties();  
-//   employee2.listValues();  
+  employee2.listProperties();  
+  employee2.listValues();  
 
 
 
